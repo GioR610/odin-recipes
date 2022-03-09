@@ -1,3 +1,2 @@
 # odin-recipes
-odin project recipes
-My first HTML project.
+My first toy website for educational purpose. 
